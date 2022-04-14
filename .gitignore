@@ -1,3 +1,9 @@
+# Environment
+venv/
 
 # PyBuilder
-venv/
+target/
+.pybuilder/
+
+#pycache
+__pycache__/

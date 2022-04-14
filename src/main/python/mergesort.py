@@ -1,3 +1,5 @@
+import sys
+
 def mergeSort(array):
     if len(array) > 1:
       mid = len(array) // 2
@@ -28,11 +30,3 @@ def mergeSort(array):
         j += 1
         k += 1
     return array
-
-def userInput():
-    inputArray = []
-    n = int(input("Enter size of array: "))
-    for i in range(0,n):
-      element = int(input())
-      inputArray.append(element)
-    return inputArray
