@@ -7,4 +7,4 @@
 ![GitHub issues](https://img.shields.io/github/issues/danasiciliano/370-470_Activity_4)
 ![GitHub issues](https://img.shields.io/github/issues-raw/danasiciliano/370-470_Activity_4)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/danasiciliano/370-470_Activity_4)
-![Scrutinizer code quality (GitHub/Bitbucket)](https://img.shields.io/scrutinizer/quality/g/danasiciliano/370-470_Activity_4)
+[![CodeFactor](https://www.codefactor.io/repository/github/danasiciliano/370-470_activity_4/badge)](https://www.codefactor.io/repository/github/danasiciliano/370-470_activity_4)
