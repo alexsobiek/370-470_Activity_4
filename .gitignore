@@ -7,3 +7,9 @@ target/
 
 #pycache
 __pycache__/
+
+# JetBrains
+.idea/
+
+# VSCode
+.vscode/
