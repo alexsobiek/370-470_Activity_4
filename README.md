@@ -1,6 +1,6 @@
 # 370-470_Activity_4
-[![coverage](docs\images\coverage.svg)](https://pybuilder.io/)
-[![python](docs\images\python.svg)](https://www.python.org/downloads/)
+[![coverage](https://raw.githubusercontent.com/danasiciliano/370-470_Activity_4/main/docs/images/coverage.svg)](https://pybuilder.io/)
+[![python](https://raw.githubusercontent.com/danasiciliano/370-470_Activity_4/main/docs/images/python.svg)](https://www.python.org/downloads/)
 ![Build](https://github.com/danasiciliano/370-470_Activity_4/actions/workflows/build.yml/badge.svg)
 ![Lines of code](https://img.shields.io/tokei/lines/github/danasiciliano/370-470_Activity_4)
 ![GitHub repo size](https://img.shields.io/github/repo-size/danasiciliano/370-470_Activity_4)
