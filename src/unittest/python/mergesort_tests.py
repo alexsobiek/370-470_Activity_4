@@ -10,8 +10,14 @@ class MergeSortTest(unittest.TestCase):
         self.assertEqual(correctArray, mergeSort(testArray))
 
 
-    def test_fail(self):
-        testArray = [3, 1, 2]
-        failArray = [3, 1, 2]
+    # def test_fail(self):
+    #     testArray = [3, 1, 2]
+    #     failArray = [3, 1, 2]
 
-        self.assertEqual(failArray, mergeSort(testArray))
+    #     self.assertEqual(failArray, mergeSort(testArray))
+
+    def test_negative_numbers(self):
+        testArray = [5, -1, 3, -2]
+        correctArray = [-2, -1, 3, 5]
+
+        self.assertEqual(correctArray, mergeSort(testArray))
