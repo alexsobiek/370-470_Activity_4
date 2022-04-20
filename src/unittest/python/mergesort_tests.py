@@ -9,6 +9,7 @@ class MergeSortTest(unittest.TestCase):
 
         self.assertEqual(correctArray, mergeSort(testArray))
 
+
     def test_fail(self):
         testArray = [3, 1, 2]
         failArray = [3, 1, 2]

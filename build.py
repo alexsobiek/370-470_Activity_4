@@ -22,3 +22,4 @@ default_task = [
 @init
 def set_properties(project):
     project.build_depends_on('coverage')
+    project.set_property('unittest_module_glob', 'mergesort_tests.py')
