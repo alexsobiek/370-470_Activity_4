@@ -7,11 +7,18 @@ use_plugin("python.flake8")
 use_plugin("python.coverage")
 use_plugin("python.distutils")
 
+# Status Badges
+use_plugin('pypi:pybuilder_bandit')
+use_plugin('pypi:pybuilder_radon')
+use_plugin('pypi:pybuilder_anybadge')
 
 name = "370-470_Activity_4"
-default_task = "publish"
 
+default_task = [
+    'publish',
+    'anybadge'
+]
 
 @init
 def set_properties(project):
-    pass
+    project.build_depends_on('coverage')

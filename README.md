@@ -1,3 +1,4 @@
+[![python](docs/images/python.svg)](https://www.python.org/downloads/)
 # 370-470_Activity_4
 ![Build](https://github.com/danasiciliano/370-470_Activity_4/actions/workflows/build.yml/badge.svg)
 ![Lines of code](https://img.shields.io/tokei/lines/github/danasiciliano/370-470_Activity_4)
