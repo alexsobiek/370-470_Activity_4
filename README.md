@@ -7,3 +7,4 @@
 ![GitHub issues](https://img.shields.io/github/issues/danasiciliano/370-470_Activity_4)
 ![GitHub issues](https://img.shields.io/github/issues-raw/danasiciliano/370-470_Activity_4)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/danasiciliano/370-470_Activity_4)
+![CodeFactor Grade](https://img.shields.io/codefactor/grade/github/danasiciliano/370-470_Activity_4/main)
